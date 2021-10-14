@@ -14,6 +14,12 @@
 	src: url(../font/Electrolize-Regular.ttf);
 }
 
+@font-face{
+    font-family: "Klee";
+    src: url(../font/Klee-medium.ttf);
+    font-weight: 600;
+}
+
 .bgimg-slider {
 	width: 100vw;
 	height: 100vh;
@@ -323,6 +329,7 @@
 
 #page2 p{
 	font-size: 21px;
+	font-family: "Klee";
 }
 
 #page3{
@@ -333,7 +340,7 @@
 
 #page3 p{
 	text-align: left;
-	font-family: Klee;
+	font-family: "Klee";
 	margin-left: 2vw;
 	font-size: 21px;
 }
